@@ -12,11 +12,11 @@ Two types of analyses were done:
   1. Grand average analyses on the whole population and on representative subjects
 
   2. Analyses on BMI decoding on each subject
-     a.  Calibration phase:
+       - Calibration phase:
         ▪ Data processing of offline runs;
         ▪ Feature extraction and selection of the most discriminant features;
         ▪ Creation of a classifier based on those features.
 
-     b. Evaluation phase:
+       - Evaluation phase:
         ▪ Evaluation of the classifier created during the calibration phase using data from online runs;
         ▪ Implementation of a evidence accumulation framework on the posterior probabilities.
