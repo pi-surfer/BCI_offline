@@ -1,3 +1,4 @@
+# Hand Gesture
 # Brain Computer Interface simulation offline in Matlab
 
 Offline simulation of a BCI loop using data collected during a 3-day experiment with 8 healthy subjects. Data has been recorded with 16-channel EEG amplifier (g.USBamp, g.Tec) at 512 Hz. Electrodes were placed accordingly to the 10-20 international layout.  Each subject participated in at least 2 recording days. In the first day, subjects performed 3 “offline” (calibration, no real feedback) and 2 “online” (with real feedback) runs. In the second day and third day, they performed 2 “online” runs each.
