@@ -13,10 +13,10 @@ Two types of analyses were done:
 
   2. Analyses on BMI decoding on each subject
        - Calibration phase:
-        ▪ Data processing of offline runs;
-        ▪ Feature extraction and selection of the most discriminant features;
-        ▪ Creation of a classifier based on those features.
+         - Data processing of offline runs;
+         - Feature extraction and selection of the most discriminant features;
+         -  Creation of a classifier based on those features.
 
        - Evaluation phase:
-        ▪ Evaluation of the classifier created during the calibration phase using data from online runs;
-        ▪ Implementation of a evidence accumulation framework on the posterior probabilities.
+         - Evaluation of the classifier created during the calibration phase using data from online runs;
+         - Implementation of a evidence accumulation framework on the posterior probabilities.
